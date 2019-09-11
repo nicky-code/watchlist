@@ -1,4 +1,4 @@
-#!/home/wecode/Desktop/Watchlist/virtual/bin/python
+#!/home/nicky/Desktop/watchlist/virtual/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
